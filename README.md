@@ -4,4 +4,6 @@
 
 ## [https://twitter.com/the_ironsheik](https://twitter.com/the_ironsheik)
 
+![Iron Sheik Class](https://github.com/locklin/iron-sheik-code-conduct/raw/sheik-small.gif "Iron Sheik Class")
+
 Pull requests welcome. Otherwise go fuck yourself.
